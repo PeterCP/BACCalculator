@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BAC Calculator</string>
+
+    <!-- Action values -->
+    <string name="action_search">Search</string>
+    <string name="action_add">Add new</string>
+
+    <!-- Global values -->
+    <string name="form_submit">Guardar</string>
+
+    <!-- Driver field values -->
+    <string name="driver_license">Licencia</string>
+    <string name="driver_name">Nombre(s)</string>
+    <string name="driver_first_surname">Apellido Paterno</string>
+    <string name="driver_last_surname">Apellido Materno</string>
+    <string name="driver_gender">Sexo</string>
+    <string name="driver_plate">Placas</string>
+    <string name="driver_date">Fecha</string>
+    <string name="driver_weight">Peso en gramos</string>
+    <string name="driver_consumed">Alcohol consumido en gramos</string>
+
+</resources>
